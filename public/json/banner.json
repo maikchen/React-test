@@ -1,0 +1,33 @@
+[{
+  "id" : 1,
+  "start_time": "2018-04-24 00:00:00",
+  "height": 376,
+  "width": 750,
+  "link": "https:\/\/market.douban.com\/campaign\/backpack-3m",
+  "end_time": "2018-05-24 23:59:59",
+  "image": "https://img3.doubanio.com\/img\/files\/file-1524482877-2.png"
+}, {
+  "id": 2,
+  "width": 750,
+  "image": "https://img3.doubanio.com\/img\/files\/file-1524122635-0.jpg",
+  "link": "https:\/\/market.douban.com\/campaign\/coffee",
+  "height": 376
+}, {
+  "id": 3,
+  "width": 750,
+  "image": "https://img3.doubanio.com\/img\/files\/file-1519640597-1.jpg",
+  "link": "https:\/\/market.douban.com\/campaign\/phonecase",
+  "height": 376
+}, {
+  "id": 4,
+  "width": 750,
+  "image": "https://img3.doubanio.com\/img\/files\/file-1521684961-1.jpg",
+  "link": "https:\/\/market.douban.com\/campaign\/notebook",
+  "height": 376
+}, {
+  "id": 5,
+  "width": 750,
+  "image": "https://img3.doubanio.com\/img\/files\/file-1524459881-0.jpg",
+  "link": "https:\/\/m.douban.com\/time\/product\/book_time",
+  "height": 376
+}]

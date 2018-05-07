@@ -1,0 +1,30 @@
+.good-item {
+  width:1.75rem;
+  float: left;
+  margin-left: 8px;
+  .img-box {
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+  .name {
+    font-size: 12px;
+    height: 34px;
+    color: #323232;
+    text-align: left;
+    padding-left: 6px;
+  }
+  .connect {
+    text-align: left;
+    padding-bottom: 10px;
+
+    .price {
+      font-size: 13px;
+      color: #ff5000;
+      padding-left: 6px;
+    }
+    .inventory{
+      margin-left: 5px;
+    }
+
+  }
+}

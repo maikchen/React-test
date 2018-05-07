@@ -1,0 +1,33 @@
+.choice-box{
+  height: 3.12rem;
+  background: #fff;
+  position: fixed;
+  bottom: 0; width: 100%;
+  z-index: 10;
+
+  .fa-window-close{
+   float: right;
+    font-size: 35px;
+  }
+  .choice-item{
+    padding:15px;
+
+    .name{
+      color:#333;
+    }
+    .item-box{
+      padding: 10px 0;
+      item-span{
+        border: 1px solid #cccccc;
+        display: inline-block;
+        padding:5px 10px;
+        text-align:center;
+        color: #cccccc;
+      }
+      .active{
+        border-color: #f60;
+        color: #f60;
+     }
+    }
+  }
+}

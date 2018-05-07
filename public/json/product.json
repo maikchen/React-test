@@ -1,0 +1,74 @@
+
+ [{
+    "can_buy": true,
+    "sku_id": 238833,
+    "tags": [{
+        "color": "#f05f50",
+        "text": "上新特惠"
+    }, {
+        "color": "#F2BE40",
+        "text": "4.24-4.27"
+    }],
+    "url": "https:\/\/market.douban.com\/product\/140149\/?index=1&r=sku",
+    "start_time": "2018-04-23 00:00:00",
+    "title": "豆瓣「三刻」双肩包",
+    "product_name": "backpack-3m",
+    "end_time": "2019-04-23 00:00:00",
+    "image": "https://img3.doubanio.com\/img\/files\/file-1524482892-0.png",
+    "price_range": "449",
+    "is_pre_sale": false,
+    "stock": 382,
+    "id": "140149",
+    "desc": "双肩斜挎，瞬间变形，一包两用，双倍扩容。"
+}, {
+    "can_buy": true,
+    "sku_id": 249340,
+    "tags": [{
+        "color": "#F2BE40",
+        "text": "新品"
+    }],
+    "url": "https:\/\/market.douban.com\/product\/150563\/?index=2&r=sku",
+    "start_time": "2018-04-20 00:00:00",
+    "title": "豆瓣线装笔记本",
+    "id": "150563",
+    "end_time": "2018-04-20 23:59:59",
+    "image": "https://img3.doubanio.com\/img\/files\/file-1524196402-0.jpg",
+    "price_range": "18~88",
+    "is_pre_sale": false,
+    "stock": 8563,
+    "product_name": "notebook-basic",
+    "desc": "简单凝练，轻薄便携，书写流畅，不洇不透"
+}, {
+    "can_buy": true,
+    "sku_id": 249314,
+    "tags": [{
+        "color": "#F2BE40",
+        "text": "新品"
+    }],
+    "url": "https:\/\/market.douban.com\/product\/150546\/?index=3&r=sku",
+    "image": "https://img3.doubanio.com\/img\/files\/file-1524194134-0.jpg",
+    "title": "豆瓣精品挂耳咖啡-甜橙庄园系列",
+    "id": "150546",
+    "stock": 437,
+    "price_range": "56",
+    "is_pre_sale": false,
+    "product_name": "coffee",
+    "desc": "甄选COE获奖精品咖啡。花香浓郁，果香四溢，回味甘甜。"
+}, {
+    "can_buy": true,
+    "direction": "ltr",
+    "sku_id": 235345,
+    "title": "豆瓣·电影畅想系列手机壳",
+    "url": "https:\/\/market.douban.com\/product\/136686\/?index=4&r=sku",
+    "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-5.jpg",
+    "tags": [{
+        "color": "#F2BE40",
+        "text": "新品"
+    }],
+    "id": "136686",
+    "stock": 1199,
+    "price_range": "48",
+    "is_pre_sale": false,
+    "product_name": "phonecase",
+    "desc": "以经典电影为图案灵感，自然元素塑造独特造型，高质量双重材质，保护你的手机。"
+}]

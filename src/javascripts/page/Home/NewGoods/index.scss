@@ -1,0 +1,59 @@
+
+ .new-good{
+    padding: 5px 0 ;
+    background-color: #fff;
+    margin-bottom: 15px;
+
+   .product-list-header{
+     font-size: 15px;
+     line-height: 1.4;
+     padding: 10px 15px;
+     color: #46a68f;
+   }
+   .product-item{
+      display: block;
+      margin: 0 15px 30px;
+      display: flex;
+     .left{
+       width:1.2rem;
+       height: 1.2rem;
+     }
+     .product-info{
+       padding: 15px;
+       display: flex;
+       flex-flow: column;
+       justify-content: space-around;
+       .titles{
+         font-size:15px;
+         font-weight: 600;
+         line-height: 1.4;
+         color: #494949;
+       }
+       .desc{
+         margin-top:5px;
+         font-size: 13px;
+         line-height: 1.5;
+         color:#9a9a9a;
+         white-space: normal;
+       }
+       .price{
+         font-size: 15px;
+         line-height:1.4;
+         color:#f05f50;
+       }
+       .tags{
+         margin-top: 6px;
+         span{
+           font-size: 12px;
+           line-height:1.4;
+           color:#fff;
+           display:inline-block;
+           padding: 0 5px;
+           background-color: #3c9bbb;
+           margin-top: 5px;
+           margin-right: 5px;
+         }
+       }
+     }
+   }
+}

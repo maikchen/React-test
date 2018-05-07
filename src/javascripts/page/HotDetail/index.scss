@@ -1,0 +1,41 @@
+.hotDetail{
+
+  .guige{
+    background:#fff ;
+    margin-top: 20px ;
+    color: #333;
+    padding: 10px;
+    .fa-angle-right{
+      font-size: 30px;
+      float: right;
+    }
+  }
+  .mask{
+    height: 100%;
+    position:fixed;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    background: rgba(0,0,0,0.3);
+    z-index:5;
+  }
+  .addCar{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    height: 55px;
+    background:#fff;
+    z-index: 12;
+
+    button{
+      display:block;
+      width: 1.2375rem;
+      height:100%;
+      background: #f60;
+      color:#fff;
+      text-algin:center;
+      line-height:55px;
+      float:right;
+    }
+  }
+
+}
